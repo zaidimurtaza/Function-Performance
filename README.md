@@ -57,7 +57,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For questions, collaborations, or feedback, feel free to reach out to me on:
 
 - [GitHub](https://github.com/zaidimurtaza)
-- [LinkedIn](https://www.linkedin.com/in/zaidimurtaza)
+- [LinkedIn]((https://www.linkedin.com/in/murtaza-57816b302/))
 
 ---
 
