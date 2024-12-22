@@ -25,14 +25,14 @@ Experience the full functionality of the **Code Performance Visualizer** by visi
 ### 1. **Main Dashboard**
 The home interface of the app where you can select your programming language and input.
 
-![Main Dashboard](./images/dashboard.png)
+![Main Dashboard](./images/dashboard.jpg)
 
 ---
 
-### 2. **Code Editor Section**
-The interactive code editor where you can input code and run it instantly.
+### 2. **Mobile View**
+The interactive code editor where you can input code and run it instantly and Get the Output as a Graph.
 
-![Code Editor](./images/code-editor.png)
+<img src="./images/mobile-view.jpeg" width="400" />
 
 ---
 
