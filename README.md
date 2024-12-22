@@ -7,16 +7,7 @@ The **Code Performance Visualizer** is an interactive web application that lets 
 ## 🚀 **Live Demo**
 
 Experience the full functionality of the **Code Performance Visualizer** by visiting the live site:  
-[**Try it now**](https://zaidimurtaza.github.io/Function-Performance/)
-
----
-
-## 🔥 **Features**
-
-- 🔄 **Support for Multiple Languages**: Run code in Python, JavaScript, and more.
-- ⚡ **Real-Time Performance Analysis**: View execution times and other performance metrics instantly.
-- ✨ **Interactive Code Editor**: Modify code on the fly and see results in real-time.
-- 💡 **User-Friendly Interface**: Clean, modern interface for an enjoyable user experience.
+Try it now : (https://zaidimurtaza.github.io/Function-Performance/)
 
 ---
 
@@ -28,6 +19,14 @@ The home interface of the app where you can select your programming language and
 ![Main Dashboard](./images/dashboard.jpg)
 
 ---
+
+## 🔥 **Features**
+
+- 🔄 **Support for Multiple Languages**: Run code in Python, JavaScript, and more.
+- ⚡ **Real-Time Performance Analysis**: View execution times and other performance metrics instantly.
+- ✨ **Interactive Code Editor**: Modify code on the fly and see results in real-time.
+- 💡 **User-Friendly Interface**: Clean, modern interface for an enjoyable user experience.
+
 
 ### 2. **Mobile View**
 The interactive code editor where you can input code and run it instantly and Get the Output as a Graph.
